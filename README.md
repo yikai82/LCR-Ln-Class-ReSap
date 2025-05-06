@@ -41,27 +41,28 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 [Assignment 3](./02_activities/assignments/assignment_3.ipynb)
 
-**Assignment Due-dates**
+**Assignment Due Dates**
 
 | Assessment   | Content                            | Due Date     |
 |--------------|------------------------------------|--------------|
-| Assignment 1 | Classification (Sessions 1, 2)     | March 7 |
-| Assignment 2 | Regression (Sessions 3, 4)         | March 19    |
-| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | March 28   |
+| Assignment 1 | Classification (Sessions 1, 2)     | May 18 |
+| Assignment 2 | Regression (Sessions 3, 4)         | May 25    |
+| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | June 1   |
 
 ### Contacts
-**Questions can be submitted to the _#dc-help_ channel on Slack**
+**Questions can be submitted to the _#cohort-6-help_ channel on Slack**
 * Technical Facilitator: **Julia**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06D4QM7YEA)
-* Learning Support Staff: **Kasra**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U07QV463BPF)
-* Learning Support Staff: **Krystal**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U08E2FPQ43F)
+* Learning Support Staff: **Vishakh**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U087AAL9Y78)
+* Learning Support Staff: **Aditya**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U07R9T8MKND)
+* Learning Support Staff: **Gayathri**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U08R6URRSCT)
 
 ### Delivery of the Learning Module
 
-This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. Optional work periods are to be used to seek help from peers, the Learning Support team, and to work through the homework and assignments in the learning module, with access to live help. Content is not facilitated, but rather this time should be driven by participants. We encourage participants to come to these work periods with questions and problems to work through. 
+This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. Optional work periods are to be used to seek help from peers, the Learning Support team, and to work through the homework and assignments in the learning module, with access to live help. Content is not facilitated, but rather, this time should be driven by participants. We encourage participants to come to these work periods with questions and problems to work through. 
  
-Participants are encouraged to engage actively during the learning module. The key to developing the core skills in each learning module is through practice. The more participants engage in coding along with the instructional team and applying the skills in each module, the more likely it is that these skills will solidify. 
+Participants are encouraged to engage actively during the learning module. The key to developing the core skills in each learning module is through practice. The more participants engage in coding with the instructional team and apply the skills in each module, the more likely these skills will solidify. 
 
-The technical facilitator will introduce the concepts through a collaborative live coding session using the Python notebooks found under `/01_materials/notebooks/`. Slides can be found under `/01_materials/slides/`.
+The technical facilitator will introduce the concepts through a collaborative live coding session using the Python notebooks, which can be found under `/01_materials/notebooks/`. Slides can be found under `/01_materials/slides/`.
 
 ## Schedule
 - Week 1 will focus on intro and classification methods
@@ -73,9 +74,9 @@ The technical facilitator will introduce the concepts through a collaborative li
 * Participants are expected to have completed Shell, Git, and Python learning modules.
 * Participants are encouraged to ask questions and collaborate with others to enhance learning.
 * Participants must have a computer and an internet connection to participate in online activities.
-* Participants must not use generative AI such as ChatGPT to generate code in order to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
+* Participants must not use generative AI such as ChatGPT to generate code to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
 * We expect participants to have completed the steps in the [onboarding repo](https://github.com/UofT-DSI/Onboarding/tree/tech-onboarding-docs).
-* We encourage participants to default to having their camera on at all times, and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provides real-time feedback for the instructional team. 
+* We encourage participants to default to having their camera on at all times and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provides real-time feedback for the instructional team. 
 
 ## Resources
 Feel free to use the following as resources:
@@ -94,7 +95,7 @@ Feel free to use the following as resources:
 - [Linear Regression, explained in 2 minutes](https://www.youtube.com/watch?v=CtsRRUddV2s)
 - [Linear Regression, Clearly Explained!!!](https://www.youtube.com/watch?v=7ArmBVF2dCs&pp=ygUic2ltcGxlIGxpbmVhciByZWdyZXNzaW9uIHN0YXRxdWVzdA%3D%3D)
 
-#### Multiple linear regression, interactions, qualitative predictors
+#### Multiple linear regression, interactions, and qualitative predictors
 - [Multiple Regression, Clearly Explained!!!](https://www.youtube.com/watch?v=EkAQAi3a4js&pp=ygUic2ltcGxlIGxpbmVhciByZWdyZXNzaW9uIHN0YXRxdWVzdA%3D%3D)
 
 #### Classification (logistic regression, generative models)
