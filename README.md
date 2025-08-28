@@ -45,15 +45,15 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 | Assessment   | Content                            | Due Date     |
 |--------------|------------------------------------|--------------|
-| Assignment 1 | Classification (Sessions 1, 2)     | May 18 |
-| Assignment 2 | Regression (Sessions 3, 4)         | May 25    |
-| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | June 1   |
+| Assignment 1 | Classification (Sessions 1, 2)     | Sept 7 |
+| Assignment 2 | Regression (Sessions 3, 4)         | Sept 14    |
+| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | Sept 21   |
 
 ### Contacts
 **Questions can be submitted to the _#cohort-6-help_ channel on Slack**
 * Technical Facilitator: **Julia**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06D4QM7YEA)
-* Learning Support Staff: **Vishakh**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U087AAL9Y78)
-* Learning Support Staff: **Aditya**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U07R9T8MKND)
+* Learning Support Staff: **Ernani**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06V88X2X3N)
+* Learning Support Staff: **Edward**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U090NAV8Z8U)
 * Learning Support Staff: **Gayathri**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U08R6URRSCT)
 
 ### Delivery of the Learning Module
